@@ -1,0 +1,16 @@
+[submodule "media"]
+	path = media
+	url = git@github.com:HanetakaChou/glTF-UV-Baking.git
+	branch = media
+[submodule "thirdparty/DXUT"]
+	path = thirdparty/DXUT
+	url = git@github.com:HanetakaChou/glTF-UV-Baking.git
+	branch = DXUT
+[submodule "thirdparty/cgltf"]
+	path = thirdparty/cgltf
+	url = git@github.com:HanetakaChou/glTF-UV-Baking.git
+	branch = cgltf
+[submodule "thirdparty/ConvertUTF"]
+	path = thirdparty/ConvertUTF
+	url = git@github.com:HanetakaChou/glTF-UV-Baking.git
+	branch = ConvertUTF
